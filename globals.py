@@ -11,7 +11,7 @@ def help():
     print("""
     [0] Desktop
     [1] Browser
-    [2] Notepad (Not Available Yet!)
+    [2] Notepad
     [3] Files (Not Available Yet!)
     [4] NBIOS
     [5] Terminal

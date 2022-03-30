@@ -1,5 +1,4 @@
 import os,time,globals, socket, urllib.request
-from tabnanny import verbose
 globals.cmd("Desktop")
 
 loginName = open("user/username.pass").read()
